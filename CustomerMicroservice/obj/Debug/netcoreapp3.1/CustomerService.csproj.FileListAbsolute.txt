@@ -1,0 +1,144 @@
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\bin\Debug\netcoreapp3.1\CustomerService.exe
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\bin\Debug\netcoreapp3.1\CustomerService.deps.json
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\bin\Debug\netcoreapp3.1\CustomerService.runtimeconfig.json
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\bin\Debug\netcoreapp3.1\CustomerService.runtimeconfig.dev.json
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\bin\Debug\netcoreapp3.1\CustomerService.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\bin\Debug\netcoreapp3.1\CustomerService.pdb
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerService.csproj.AssemblyReference.cache
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerService.AssemblyInfoInputs.cache
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerService.AssemblyInfo.cs
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerService.csproj.CoreCompileInputs.cache
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerService.MvcApplicationPartsAssemblyInfo.cs
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerService.MvcApplicationPartsAssemblyInfo.cache
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\CustomerService.StaticWebAssets.Manifest.cache
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerService.RazorTargetAssemblyInfo.cache
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerService.csproj.CopyComplete
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerService.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerService.pdb
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerService.genruntimeconfig.cache
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\bin\Debug\netcoreapp3.1\CustomerService.exe
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\bin\Debug\netcoreapp3.1\CustomerService.deps.json
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\bin\Debug\netcoreapp3.1\CustomerService.runtimeconfig.json
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\bin\Debug\netcoreapp3.1\CustomerService.runtimeconfig.dev.json
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\bin\Debug\netcoreapp3.1\CustomerService.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\bin\Debug\netcoreapp3.1\CustomerService.pdb
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerService.csproj.AssemblyReference.cache
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerService.AssemblyInfoInputs.cache
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerService.AssemblyInfo.cs
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerService.csproj.CoreCompileInputs.cache
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerService.MvcApplicationPartsAssemblyInfo.cs
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerService.MvcApplicationPartsAssemblyInfo.cache
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\CustomerService.StaticWebAssets.Manifest.cache
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerService.RazorTargetAssemblyInfo.cache
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerService.csproj.CopyComplete
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerService.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerService.pdb
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerService.genruntimeconfig.cache
+D:\Work & Study\MFPE\CustomerMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Work & Study\MFPE\CustomerMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Work & Study\MFPE\CustomerMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+D:\Work & Study\MFPE\CustomerMicroservice\bin\Debug\netcoreapp3.1\CustomerService.exe
+D:\Work & Study\MFPE\CustomerMicroservice\bin\Debug\netcoreapp3.1\CustomerService.deps.json
+D:\Work & Study\MFPE\CustomerMicroservice\bin\Debug\netcoreapp3.1\CustomerService.runtimeconfig.json
+D:\Work & Study\MFPE\CustomerMicroservice\bin\Debug\netcoreapp3.1\CustomerService.runtimeconfig.dev.json
+D:\Work & Study\MFPE\CustomerMicroservice\bin\Debug\netcoreapp3.1\CustomerService.dll
+D:\Work & Study\MFPE\CustomerMicroservice\bin\Debug\netcoreapp3.1\CustomerService.pdb
+D:\Work & Study\MFPE\CustomerMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+D:\Work & Study\MFPE\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Work & Study\MFPE\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Work & Study\MFPE\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Work & Study\MFPE\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Work & Study\MFPE\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Work & Study\MFPE\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Work & Study\MFPE\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Work & Study\MFPE\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Work & Study\MFPE\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Work & Study\MFPE\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Work & Study\MFPE\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Work & Study\MFPE\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Work & Study\MFPE\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Work & Study\MFPE\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Work & Study\MFPE\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Work & Study\MFPE\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Work & Study\MFPE\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Work & Study\MFPE\CustomerMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Work & Study\MFPE\CustomerMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Work & Study\MFPE\CustomerMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Work & Study\MFPE\CustomerMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Work & Study\MFPE\CustomerMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Work & Study\MFPE\CustomerMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Work & Study\MFPE\CustomerMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Work & Study\MFPE\CustomerMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work & Study\MFPE\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerService.csproj.AssemblyReference.cache
+D:\Work & Study\MFPE\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work & Study\MFPE\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerService.AssemblyInfoInputs.cache
+D:\Work & Study\MFPE\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerService.AssemblyInfo.cs
+D:\Work & Study\MFPE\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerService.csproj.CoreCompileInputs.cache
+D:\Work & Study\MFPE\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerService.MvcApplicationPartsAssemblyInfo.cs
+D:\Work & Study\MFPE\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerService.MvcApplicationPartsAssemblyInfo.cache
+D:\Work & Study\MFPE\CustomerMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\CustomerService.StaticWebAssets.Manifest.cache
+D:\Work & Study\MFPE\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerService.RazorTargetAssemblyInfo.cache
+D:\Work & Study\MFPE\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerService.csproj.CopyComplete
+D:\Work & Study\MFPE\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerService.dll
+D:\Work & Study\MFPE\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerService.pdb
+D:\Work & Study\MFPE\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerService.genruntimeconfig.cache

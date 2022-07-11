@@ -1,0 +1,90 @@
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\RulesMicroservice.exe
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\RulesMicroservice.deps.json
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\RulesMicroservice.runtimeconfig.json
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\RulesMicroservice.runtimeconfig.dev.json
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\RulesMicroservice.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\RulesMicroservice.pdb
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.csproj.AssemblyReference.cache
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.AssemblyInfoInputs.cache
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.AssemblyInfo.cs
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.csproj.CoreCompileInputs.cache
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.MvcApplicationPartsAssemblyInfo.cs
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.MvcApplicationPartsAssemblyInfo.cache
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\RulesMicroservice.StaticWebAssets.Manifest.cache
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.RazorTargetAssemblyInfo.cache
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.csproj.CopyComplete
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.dll
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.pdb
+D:\Work & Study\Training\MFPE Retail Banking\mfpe\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.genruntimeconfig.cache
+D:\Work & Study\MFPE\RulesMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Work & Study\MFPE\RulesMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Work & Study\MFPE\RulesMicroservice\bin\Debug\netcoreapp3.1\RulesMicroservice.exe
+D:\Work & Study\MFPE\RulesMicroservice\bin\Debug\netcoreapp3.1\RulesMicroservice.deps.json
+D:\Work & Study\MFPE\RulesMicroservice\bin\Debug\netcoreapp3.1\RulesMicroservice.runtimeconfig.json
+D:\Work & Study\MFPE\RulesMicroservice\bin\Debug\netcoreapp3.1\RulesMicroservice.runtimeconfig.dev.json
+D:\Work & Study\MFPE\RulesMicroservice\bin\Debug\netcoreapp3.1\RulesMicroservice.dll
+D:\Work & Study\MFPE\RulesMicroservice\bin\Debug\netcoreapp3.1\RulesMicroservice.pdb
+D:\Work & Study\MFPE\RulesMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+D:\Work & Study\MFPE\RulesMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Work & Study\MFPE\RulesMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Work & Study\MFPE\RulesMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Work & Study\MFPE\RulesMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Work & Study\MFPE\RulesMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Work & Study\MFPE\RulesMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Work & Study\MFPE\RulesMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Work & Study\MFPE\RulesMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Work & Study\MFPE\RulesMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Work & Study\MFPE\RulesMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Work & Study\MFPE\RulesMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Work & Study\MFPE\RulesMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Work & Study\MFPE\RulesMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Work & Study\MFPE\RulesMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Work & Study\MFPE\RulesMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Work & Study\MFPE\RulesMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Work & Study\MFPE\RulesMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Work & Study\MFPE\RulesMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Work & Study\MFPE\RulesMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work & Study\MFPE\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.csproj.AssemblyReference.cache
+D:\Work & Study\MFPE\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work & Study\MFPE\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.AssemblyInfoInputs.cache
+D:\Work & Study\MFPE\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.AssemblyInfo.cs
+D:\Work & Study\MFPE\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.csproj.CoreCompileInputs.cache
+D:\Work & Study\MFPE\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.MvcApplicationPartsAssemblyInfo.cs
+D:\Work & Study\MFPE\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.MvcApplicationPartsAssemblyInfo.cache
+D:\Work & Study\MFPE\RulesMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\RulesMicroservice.StaticWebAssets.Manifest.cache
+D:\Work & Study\MFPE\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.RazorTargetAssemblyInfo.cache
+D:\Work & Study\MFPE\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.csproj.CopyComplete
+D:\Work & Study\MFPE\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.dll
+D:\Work & Study\MFPE\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.pdb
+D:\Work & Study\MFPE\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.genruntimeconfig.cache
+D:\Work & Study\MFPE\RulesMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Work & Study\MFPE\RulesMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Work & Study\MFPE\RulesMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Work & Study\MFPE\RulesMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Work & Study\MFPE\RulesMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Work & Study\MFPE\RulesMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Work & Study\MFPE\RulesMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll

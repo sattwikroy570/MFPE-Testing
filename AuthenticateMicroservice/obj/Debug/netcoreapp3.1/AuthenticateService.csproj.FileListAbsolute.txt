@@ -1,0 +1,195 @@
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\AuthenticateService.exe
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\AuthenticateService.deps.json
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\AuthenticateService.runtimeconfig.json
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\AuthenticateService.runtimeconfig.dev.json
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\AuthenticateService.dll
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\AuthenticateService.pdb
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.csprojAssemblyReference.cache
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.AssemblyInfoInputs.cache
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.AssemblyInfo.cs
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.csproj.CoreCompileInputs.cache
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.MvcApplicationPartsAssemblyInfo.cs
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.MvcApplicationPartsAssemblyInfo.cache
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.RazorTargetAssemblyInfo.cache
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.csproj.CopyComplete
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\AuthenticateService.StaticWebAssets.Manifest.cache
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\AuthenticateService.StaticWebAssets.xml
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.dll
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.pdb
+E:\Updated\AuthenticateMicroservice-Git\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.genruntimeconfig.cache
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\AuthenticateService.StaticWebAssets.xml
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\AuthenticateService.exe
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\AuthenticateService.deps.json
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\AuthenticateService.runtimeconfig.json
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\AuthenticateService.runtimeconfig.dev.json
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\AuthenticateService.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\AuthenticateService.pdb
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.csproj.AssemblyReference.cache
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.AssemblyInfoInputs.cache
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.AssemblyInfo.cs
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.csproj.CoreCompileInputs.cache
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.MvcApplicationPartsAssemblyInfo.cs
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.MvcApplicationPartsAssemblyInfo.cache
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\AuthenticateService.StaticWebAssets.Manifest.cache
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.RazorTargetAssemblyInfo.cache
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.csproj.CopyComplete
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.dll
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.pdb
+D:\Work & Study\Training\Stage 4\mfpe\MFPE-master\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.genruntimeconfig.cache
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\AuthenticateService.StaticWebAssets.xml
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\AuthenticateService.exe
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\AuthenticateService.deps.json
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\AuthenticateService.runtimeconfig.json
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\AuthenticateService.runtimeconfig.dev.json
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\AuthenticateService.dll
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\AuthenticateService.pdb
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.csproj.AssemblyReference.cache
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.AssemblyInfoInputs.cache
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.AssemblyInfo.cs
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.csproj.CoreCompileInputs.cache
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.MvcApplicationPartsAssemblyInfo.cs
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.MvcApplicationPartsAssemblyInfo.cache
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\AuthenticateService.StaticWebAssets.Manifest.cache
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.RazorTargetAssemblyInfo.cache
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.csproj.CopyComplete
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.dll
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.pdb
+D:\Work & Study\MFPE Retail Banking\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.genruntimeconfig.cache
+D:\Work & Study\MFPE\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Work & Study\MFPE\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Work & Study\MFPE\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\AuthenticateService.StaticWebAssets.xml
+D:\Work & Study\MFPE\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\AuthenticateService.exe
+D:\Work & Study\MFPE\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\AuthenticateService.deps.json
+D:\Work & Study\MFPE\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\AuthenticateService.runtimeconfig.json
+D:\Work & Study\MFPE\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\AuthenticateService.runtimeconfig.dev.json
+D:\Work & Study\MFPE\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\AuthenticateService.dll
+D:\Work & Study\MFPE\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\AuthenticateService.pdb
+D:\Work & Study\MFPE\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+D:\Work & Study\MFPE\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Work & Study\MFPE\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Work & Study\MFPE\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Work & Study\MFPE\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Work & Study\MFPE\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Work & Study\MFPE\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Work & Study\MFPE\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Work & Study\MFPE\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Work & Study\MFPE\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Work & Study\MFPE\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Work & Study\MFPE\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Work & Study\MFPE\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Work & Study\MFPE\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Work & Study\MFPE\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Work & Study\MFPE\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Work & Study\MFPE\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Work & Study\MFPE\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Work & Study\MFPE\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Work & Study\MFPE\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Work & Study\MFPE\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Work & Study\MFPE\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Work & Study\MFPE\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Work & Study\MFPE\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Work & Study\MFPE\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Work & Study\MFPE\AuthenticateMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work & Study\MFPE\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.csproj.AssemblyReference.cache
+D:\Work & Study\MFPE\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work & Study\MFPE\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.AssemblyInfoInputs.cache
+D:\Work & Study\MFPE\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.AssemblyInfo.cs
+D:\Work & Study\MFPE\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.csproj.CoreCompileInputs.cache
+D:\Work & Study\MFPE\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.MvcApplicationPartsAssemblyInfo.cs
+D:\Work & Study\MFPE\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.MvcApplicationPartsAssemblyInfo.cache
+D:\Work & Study\MFPE\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\AuthenticateService.StaticWebAssets.Manifest.cache
+D:\Work & Study\MFPE\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.RazorTargetAssemblyInfo.cache
+D:\Work & Study\MFPE\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.csproj.CopyComplete
+D:\Work & Study\MFPE\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.dll
+D:\Work & Study\MFPE\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.pdb
+D:\Work & Study\MFPE\AuthenticateMicroservice\obj\Debug\netcoreapp3.1\AuthenticateService.genruntimeconfig.cache

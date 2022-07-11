@@ -1,0 +1,19 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+  name: sattwikroycustomermicroservice 
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: sattwikroycustomermicroservice
+  template:
+    metadata:
+      labels:
+        app: sattwikroycustomermicroservice 
+    spec:
+      containers:
+        - name: sattwikroycustomermicroservice 
+          image: mfpeacr.azurecr.io/sattwikroycustomermicroservice
+          ports:
+          - containerPort: 80

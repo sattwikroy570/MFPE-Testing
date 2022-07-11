@@ -1,0 +1,19 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+  name: sattwikroyauthenticatemicroservice 
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: sattwikroyauthenticatemicroservice
+  template:
+    metadata:
+      labels:
+        app: sattwikroyauthenticatemicroservice 
+    spec:
+      containers:
+        - name: sattwikroyauthenticatemicroservice 
+          image: mfpeacr.azurecr.io/sattwikroyauthenticatemicroservice
+          ports:
+          - containerPort: 80
